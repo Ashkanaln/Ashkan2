@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 5,
+    "height" : 5
+  }, {
+    "width" : 9,
+    "height" : 9
+  }, {
+    "width" : 18,
+    "height" : 18
+  }, {
+    "width" : 35,
+    "height" : 35
+  }, {
+    "width" : 70,
+    "height" : 70
+  }, {
+    "width" : 140,
+    "height" : 140
+  } ],
+  "profile" : "level0",
+  "width" : 140,
+  "id" : "https://Ashkanaln.github.io/Ashkan2/images/sdsd",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 140
+}
